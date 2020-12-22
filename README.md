@@ -20,7 +20,7 @@ EXPRESS}
 
 ## Installation
 
-Use the package manager [npm] to install tiktok-clone.
+Use the package manager [npm] to install NewsLetter-LandingPage.
 
 ```bash
 npm install
